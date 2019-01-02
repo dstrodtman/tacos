@@ -1,5 +1,6 @@
-beef (this is all Rex wants)
+beef
 avocado
+cheese
 cumin
 onion
 garlic
